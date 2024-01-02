@@ -1,0 +1,6 @@
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,11 @@
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\BusinessLayer\obj\Debug\BusinessLayer.pdb

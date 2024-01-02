@@ -1,0 +1,9 @@
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\imgoz\OneDrive\Masaüstü\YOUTUBE MVC BASLANGIX\Yaz_Okulu_Kayıt\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
