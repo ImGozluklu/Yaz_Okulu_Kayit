@@ -1,6 +1,6 @@
 Yaz okuluna kaydolacak öğrencileri kayıt eden alacağı dersleri kaydeden bir web projesi.
 Aşağıya bir video bırakıyorum . 
- **HTML CSS ASP.NET BOOTSTRAP  GİBİ TEKNOLOJİLER KULLANILMISTIR **
+ **HTML CSS ASP.NET BOOTSTRAP  GİBİ TEKNOLOJİLER KULLANILMISTIR**
 
  
 
