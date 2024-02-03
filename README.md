@@ -6,8 +6,8 @@
 - Online bir stok sağlanır.
 
 ## Kullanılan Teknolojiler , Kütüphaneler ve Yöntemler
-- HTML
-- CSS
+- HTML-CSS-JS
+- N-Tier Architecture
 - ASP.NET
 - C#
 - Bootstrap
