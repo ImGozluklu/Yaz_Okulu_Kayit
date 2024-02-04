@@ -11,7 +11,7 @@
 - ASP.NET
 - C#
 - Bootstrap
-  
+- MSSQL 
 
 ## Proje Videosu
  
