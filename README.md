@@ -12,7 +12,7 @@
 - C#
 - Bootstrap
 - MSSQL
-- ORM:ADO.NET
+- ADO.NET
 
 ## Proje Videosu
  
